@@ -1,0 +1,33 @@
+div{
+	background-color: lightblue;
+	border:1.5px solid;
+}
+
+h2{
+	background-color:lightcyan;
+
+}
+
+div #title{
+	background-color:white;
+	border:none;
+	font-size: 36px;
+	text-align: center;
+	font-family: 'Kumar One Outline';
+}
+
+div .page{
+	border-top:2px dashed;
+	border-bottom: 2px dashed;
+	background-color:lightslategrey;
+	margin:1.5%;
+	padding:0.5%;
+	text-align: center;
+
+}
+
+img{
+	width:35%;
+	display: block;
+	margin:auto;
+}
